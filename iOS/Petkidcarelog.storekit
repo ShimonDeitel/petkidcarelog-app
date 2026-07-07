@@ -1,0 +1,42 @@
+{
+  "identifier" : "Petkidcarelog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "PETKIDCARELOGGROUP",
+      "localizations" : [],
+      "name" : "Petkidcarelog Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "petkidcarelogsub001",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Duty-fairness chart across household members",
+              "displayName" : "Petkidcarelog Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.petkidcarelog.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Petkidcarelog Pro Monthly",
+          "subscriptionGroupID" : "PETKIDCARELOGGROUP",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
